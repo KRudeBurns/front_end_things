@@ -1,0 +1,24 @@
+/*
+
+* **The fourth element**: a light green background, a font size of 24px, and bold
+*/
+
+.odd-num {
+    background-color: #e75252b0;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color:#1927dfe1;
+    font-size: 36px;
+}
+
+.odd-num.num-three {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #47d15e;
+    font-size: 24px;
+    font-weight: 700;
+}
